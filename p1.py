@@ -1,4 +1,4 @@
-## Written by: Hongtao Hao
+## Written by: Harshet Anand
 ## Attribution: Hugh Liu's solutions for CS540 2021 Epic
 ## Comments added by Naman Gupta
 
